@@ -1,4 +1,4 @@
-# De padawan a Jedi: Node - Boas práticas
+# Node - Boas práticas [De Padawan a Jedi] 
 
 Esse repositório contém os projetos apresentados no curso de boas práticas em Node. Esse curso é baseado 
 boa parte no repositório abaixo: 
@@ -11,3 +11,15 @@ repositório que citei acima ele dá uma idéia de cada boa prática, o que já 
 pode parecer mais complicado de entender e ver num projeto real a boa prática e também ver não sendo usado pode ensinar bastante.
 
 
+## Conteúdo do Curso
+
+### Seção: Boas práticas em Estrutura de Projetos
+
+### Seção: Boas práticas ao lidar com Erros
+
+### Seção: Boas práticas em Estilo de código
+
+### Seção: Boas práticas em Testes e qualidade no geral
+
+### Seção: Boas práticas em Produção
+### Seção: Boas práticas de Segurança
