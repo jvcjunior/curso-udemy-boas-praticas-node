@@ -15,6 +15,9 @@ pode parecer mais complicado de entender e ver num projeto real a boa prática e
 
 ### Seção: Boas práticas em Estrutura de Projetos
 
+- Boa prática - Coloque seus componentes em camadas, mantenha a camada da web dentro de seus limites
+
+- Boa prática - Separar aplicação e servidor em si no Express 
 ### Seção: Boas práticas ao lidar com Erros
 
 ### Seção: Boas práticas em Estilo de código
